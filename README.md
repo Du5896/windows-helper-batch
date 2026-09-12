@@ -9,7 +9,7 @@ Windows辅助批处理启动脚本集合
 ## ⚠️重要说明
 > 本仓库内的bat仅仅是启动器，依赖 `%LOCALAPPDATA%\DoubaoTools\` 目录下的ps1脚本。
 需要把 `clean.ps1`、`countdown.ps1`、`startup_mgr.ps1` 放到这个文件夹，bat才可以正常工作。
-只下载bat直接双击运行，会提示找不到脚本文件，无法执行功能。
+只下载bat直接双击运行，会提示找不到脚本文件，无法执行功能，请安装前置组件文件夹❗
 
 ## ⚠️安全警告
 1. 仅支持 Windows系统。
